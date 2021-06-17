@@ -3,7 +3,7 @@ Where AWS learning are put into one place. Feel free to add more.
 
 # CloudFront
 ## Custom SSL Problem
-There is a weird bug in cloudfront that the custom SSL certificate does not appear on the selection. Even if you refresh the browser, the SSL does not show.
+There is a weird bug in cloudfront that the custom SSL certificate does not appear on the selection. Even if you refresh the browser, the SSL does not show.  
 Solution:The solution is posted here. https://stackoverflow.com/questions/50688369/acm-requested-public-ssl-certificate-not-appearing-in-cloudfront
 
 ## Forbidden Access (403) Problem
