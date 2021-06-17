@@ -2,10 +2,10 @@
 Where AWS learning are put into one place. Feel free to add more.
 
 # CloudFront
-1. Problem: There is a weird bug in cloudfront that the custom SSL certificate does not appear on the selection. Even if you refresh the browser, the SSL does not show.
+## Custom SSL Problem: There is a weird bug in cloudfront that the custom SSL certificate does not appear on the selection. Even if you refresh the browser, the SSL does not show.
 Solution:The solution is posted here. https://stackoverflow.com/questions/50688369/acm-requested-public-ssl-certificate-not-appearing-in-cloudfront
 
-2. Problem: You got a 403 Access Denied when accessing another URL when you copy and paste to other browser tab.
+## Forbidden Access (403) Problem: You got a 403 Access Denied when accessing another URL when you copy and paste to other browser tab.
 Solution: Here are the steps:
 1. Create a custom response
 2. Specify the HTTP Error code 403
