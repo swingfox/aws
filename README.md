@@ -14,6 +14,7 @@ Solution: Here are the steps:
 5. Save.
 6. Test on the link again at it will be redirected to the homepage if you access forbidden sites.
 
+# Note
 I will add more of the knowledge I have with AWS. Knowledge that came from documentation,  meeting with AWS specialist, etc. 
 
 Furtherwork needs to be done on the structure on this repo. Suggestions are open.
