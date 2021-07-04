@@ -1,6 +1,10 @@
 # AWS Learnings
 Where AWS learning are put into one place. Feel free to add more.
 
+# Amazon Certificate Manager
+## How to download public custom domain certificate created by AWS?  
+Solution: You cannot download public certificate from ACM. https://stackoverflow.com/questions/57562148/how-to-download-a-public-certificate-from-amazon-certificate-manager  
+
 # CloudFront
 ## Custom SSL Problem
 There is a weird bug in cloudfront that the custom SSL certificate does not appear on the selection. Even if you refresh the browser, the SSL does not show.  
